@@ -3,17 +3,15 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
-  headerTaglineOne: "Hello 👋",
+  name: "Ayoub",
+  headerTaglineOne: "Hello 👋, I'm Ayoub Mazrou.",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "Delivering web and mobile development solutions for a captivating online presence.",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Github", link: "https://github.com/mazrou" },
+    { title: "LinkedIn", link: "https://www.linkedin.com/in/ayoub-mazrou/" },
+    { title: "Email", link: "mailto:ga.mazrou@gmail.com" },
   ],
 
   // End Header Details -----------------------
@@ -21,13 +19,13 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
-      description: "Web Design",
+      title: "Topili V2", //Project Title - Add Your Project Title Here
+      description: "Mobile development",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://play-lh.googleusercontent.com/9J3e6Ezaq9ccMg4lvGvumaOmYmCVKb6T1tqzzV4LiXqIyJSz7XZAOVOxvWcAwX9sSOg=w2560-h1440-rw",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://play.google.com/store/apps/details?id=com.teletic.topiliV02&hl=fr&gl=US",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
@@ -92,24 +90,29 @@ export default {
 
   services: [
     {
-      title: "Art Direction",
+      title: "Web Development",
       description:
-        "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance.",
-    },
-    {
-      title: "Branding",
-      description:
-        "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors.",
+        "I specialize in creating responsive and dynamic websites that are customized to meet your specific requirements. Using the latest web technologies and best practices, I build user-friendly and scalable web solutions that cater to your target audience.",
     },
     {
       title: "Web Design",
       description:
-        "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel.",
+        "Crafting visually stunning and intuitive user interfaces is my forte. I design modern and captivating websites that leave a lasting impression on your visitors, all while reflecting your brand identity and values.",
     },
     {
-      title: "3D Design",
+      title: "Mobile Development",
       description:
-        "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life.",
+        "With expertise in both Android and iOS platforms, I create cutting-edge mobile applications that deliver seamless user experiences and feature-rich functionalities.",
+    },
+    {
+      title: "Backend Development",
+      description:
+        " I build robust server-side architectures to power your applications, including designing databases, APIs, and handling data management efficiently."
+    },
+    {
+      title: "Frontend Development",
+      description:
+        "I develop visually appealing and responsive frontends that enhance user interactions, keeping your audience engaged and satisfied.",
     },
   ],
 
@@ -117,8 +120,9 @@ export default {
 
   // About Secton --------------
   aboutpara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  //   End About Section ---------------------
+    "I'm Ayoub Mazrou, a passionate software engineer skilled in mobile, backend, and frontend development. Let's build remarkable solutions together!\n This version should be more concise while still conveying the key points about your expertise and enthusiasm as a software engineer. Feel free to further modify it to fit your preferences."
+
+    //   End About Section ---------------------
 };
 
 // Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
